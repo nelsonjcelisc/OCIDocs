@@ -1,0 +1,5 @@
+Se instala Ubuntu 22.04 LTS Minimal sobre WSL2 como contenedor de docker:
+ruta a tar, se descarga desde: https://cloud-images.ubuntu.com/minimal/releases/noble/release-20240423/ubuntu-24.04-minimal-cloudimg-amd64-root.tar.xz
+wsl --import UbuntuLight <ruta-a-carpeta> <ruta-a-tar>
+
+https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-22-04
