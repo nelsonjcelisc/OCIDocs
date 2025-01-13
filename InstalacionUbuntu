@@ -3,3 +3,6 @@ ruta a tar, se descarga desde: https://cloud-images.ubuntu.com/minimal/releases/
 wsl --import UbuntuLight <ruta-a-carpeta> <ruta-a-tar>
 
 https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-22-04
+de aquí se tomaron instrucciones para dejar docker daemon andando:
+
+https://dev.to/felipecrs/simply-run-docker-on-wsl2-3o8
